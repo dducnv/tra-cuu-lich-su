@@ -13,8 +13,8 @@ export default function Home() {
                 thông tin chính xác, không xuyên tạc." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <div style={{backgroundImage:"url('nen.jpg')",backgroundRepeat:"no-repeat",backgroundPosition:"center",backgroundSize:"cover"}} className="flex min-h-screen justify-center items-center">
-        <div className="text-center max-w-2xl backdrop-blur-md bg-white/50 p-5 rounded-lg overflow-hidden">
+      <div style={{backgroundImage:"url('nen-2.png')",backgroundRepeat:"no-repeat",backgroundPosition:"center",backgroundSize:"cover"}} className="flex min-h-screen justify-center items-center">
+        <div className="text-center max-w-2xl backdrop-blur-md bg-white/20 p-5 rounded-lg overflow-hidden">
           <h1 className=" font-bold text-3xl mb-2">
             Dự án tra cứu Lịch sử Việt Nam
           </h1>
