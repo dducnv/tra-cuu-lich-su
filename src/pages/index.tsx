@@ -43,7 +43,8 @@ export default function Home() {
               </p>
             </li>
             <li className="mt-4 text-center">
-               Liên hệ với <a className=" underline" href="http://dducnv.dev/">Nguyễn Văn Đức</a>, chúng ta cùng phát triển ❤️. <br/>(Đóng góp sức lực, dự án không nhằm mục đích kiếm lợi nhuận quảng cáo)
+               Liên hệ với <a className=" underline" href="http://dducnv.dev/">Nguyễn Văn Đức</a>, chúng ta cùng phát triển ❤️. <br/>(Đóng góp sức lực, dự án không nhằm mục đích kiếm lợi nhuận quảng cáo)<br/>
+               <i>19/02/2023</i>
             </li>
           </ul>
           <p></p>
